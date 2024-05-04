@@ -17,9 +17,7 @@
 
 
 <p align="center">
- <a href="https://mohdshoaibkhan72.github.io/Portfolio-Resposive-/#home" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="mohdshoaibkhan72" />
- </a>
+
  <a href="https://www.linkedin.com/in/mohd-shaquib-khan-1158b3252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="mohdshaquibkhan"/>
  </a>
