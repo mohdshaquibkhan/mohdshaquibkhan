@@ -21,10 +21,7 @@
  <a href="https://www.linkedin.com/in/mohd-shaquib-khan-1158b3252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="mohdshaquibkhan"/>
  </a>
- <!-- <a href="https://dev.to/mohdshoaibkhan72" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="mohdshoaibkhan72" />
- </a> -->
-
+ 
  <a href="https://www.instagram.com/mshaquibkhan_04?igsh=ZGJhZWgwMDN5Mnh5">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="mohdshaquibkhan" />
  </a> 
